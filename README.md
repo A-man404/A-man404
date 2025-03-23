@@ -1,5 +1,7 @@
 # 💫 About Me:
-Trying my hand at app development—what could possibly go wrong? 
+👋 Hi, I'm Aman — a passionate developer specializing in Android, backend, and game development.  
+🚀 Currently exploring Kotlin Multiplatform, Ktor, and crafting immersive experiences in Godot.  
+
 
 
 ## 🌐 Socials:
